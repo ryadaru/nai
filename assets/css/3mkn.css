@@ -1,0 +1,16 @@
+.content-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.content-box {
+    width: 30%;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    text-align: center;
+}
+
+.image {
+    margin-top: 10px;
+}
